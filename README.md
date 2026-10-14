@@ -24,6 +24,8 @@ Software Developer in **Dhaka, Bangladesh**. I build and ship ERP features with 
 
 <img src="assets/stack.jpg" alt="Frontend: React.js, JavaScript, HTML5, CSS3, Bootstrap. Backend: ASP.NET Core Web API, C#, ASP.NET MVC, REST APIs. Data and reports: MS SQL Server, PostgreSQL, Oracle (working knowledge), Telerik, Crystal Reports. Desktop and mobile: Electron, React with Capacitor. Tools: Git, GitHub, IIS, Visual Studio, VS Code." width="100%">
 
+**Tech:** React.js · JavaScript · HTML5 · CSS3 · Bootstrap · ASP.NET Core Web API · C# · ASP.NET MVC · REST APIs · Electron · React + Capacitor · Git · GitHub · IIS · Visual Studio · VS Code. Working knowledge of MS SQL Server, PostgreSQL and Oracle (queries, schema changes), plus Telerik and Crystal Reports.
+
 ### 🚀 Featured project
 
 <table>
